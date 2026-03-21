@@ -59,3 +59,8 @@ A complete e-commerce web application built with the MERN stack (MongoDB, Expres
    ```bash
    git clone https://github.com/yourusername/ecommerce-app.git
    cd ecommerce-app
+
+   ## Documentation
+
+The complete project documentation is available in the file:
+Ecommerce_Project_Documentation.docx
