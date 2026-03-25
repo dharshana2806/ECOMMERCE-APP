@@ -1,8 +1,22 @@
 # E-Commerce Full Stack Application
 
+## 👩‍💻 Intern Details
+- **Name:** Dharshana S  
+- **Intern ID:** TS-RISE-FSD-2603722  
+
+---
+
+## 📌 Project Title
+E-Commerce Full Stack Application (MERN)
+
+---
+
+## 📖 Description
 A complete e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring product browsing, cart management, order processing, and user authentication.
 
-## Features
+---
+
+## 🚀 Features
 
 ### User Features
 - 🔐 User authentication (Register/Login)
@@ -29,38 +43,38 @@ A complete e-commerce web application built with the MERN stack (MongoDB, Expres
 - 📦 State management with Context API
 - 🔄 Real-time cart updates
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
-- Node.js & Express.js
-- MongoDB with Mongoose
-- JWT for authentication
-- bcrypt for password hashing
-- Express Validator for validation
+- Node.js & Express.js  
+- MongoDB with Mongoose  
+- JWT for authentication  
+- bcrypt for password hashing  
+- Express Validator for validation  
 
 ### Frontend
-- React.js
-- React Router for navigation
-- Context API for state management
-- Tailwind CSS for styling
-- React Hook Form for forms
-- React Query for data fetching
-- Axios for API calls
+- React.js  
+- React Router  
+- Context API  
+- Tailwind CSS  
+- React Hook Form  
+- React Query  
+- Axios  
 
-## Prerequisites
+---
 
-- Node.js (v14 or higher)
-- MongoDB (local or Atlas)
-- npm or yarn package manager
+## ⚙️ Prerequisites
+- Node.js (v14 or higher)  
+- MongoDB (local or Atlas)  
+- npm or yarn  
 
-## Installation
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
-   cd ecommerce-app
+## 💻 Installation
 
-   ## Documentation
-
-The complete project documentation is available in the file:
-Ecommerce_Project_Documentation.docx
+```bash
+git clone https://github.com/yourusername/ecommerce-app.git
+cd ecommerce-app
+npm install
